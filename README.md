@@ -65,7 +65,7 @@ https://github.com/ammarkh95/ABAQUS_PDALAC
 * **Modifications & Optimizations**: Yang Liu, Brandenburgische Technische Universität Cottbus-Senftenberg (2026).
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Settings, inputs & output  
+Settings, inputs & outputs    
 
 **Abaqus -- property -- Edit Material -- Depvar  
 
