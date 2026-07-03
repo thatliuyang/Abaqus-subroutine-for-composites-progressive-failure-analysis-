@@ -1,7 +1,7 @@
 # Abaqus-subroutine-for-composites-progressive-failure-analysis-
 This repository contains an extensively optimized and robust version of the PDALAC (Progressive Damage Analysis of Laminated Composites) UMAT for Abaqus. 
 
-Originally developed by Ammar Khallouf (TU Munich) for 3D elements, this codebase has been  improved by **Brandenburgische Technische Universität Cottbus-Senftenberg (Chair of Polymer-based Lightweight Design)** to address critical bugs, enhance computational efficiency, and prevent numerical instabilities during complex progressive damage simulations.
+Originally developed by Ammar Khallouf (TU Munich) for 3D elements, this codebase has been  improved by **Brandenburgische Technische Universität Cottbus-Senftenberg (Chair of Polymer-based Lightweight Design)** to address critical bugs, improve computational efficiency, and enhance Puck FF & IFF logic to explicitly separate Mode A, Mode B, and Mode C, as well as record their respective fracture angles, rather than just the overall maximum.
 
 ## 🚀 Key Improvements & Benefits
 
