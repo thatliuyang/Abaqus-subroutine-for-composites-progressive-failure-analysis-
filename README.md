@@ -3,8 +3,6 @@ This repository contains an extensively optimized and robust version of the PDAL
 
 Originally developed by Ammar Khallouf (TU Munich) for 3D elements, this codebase has been  improved by **Brandenburgische Technische Universität Cottbus-Senftenberg (Chair of Polymer-based Lightweight Design)** to address critical bugs, enhance computational efficiency, and prevent numerical instabilities during complex progressive damage simulations.
 
----
-
 ## 🚀 Key Improvements & Benefits
 
 ### 1. Performance Optimizations (Speedup)
@@ -65,3 +63,9 @@ test_puck.exe
 https://github.com/ammarkh95/ABAQUS_PDALAC
 
 * **Modifications & Optimizations**: Yang Liu, Brandenburgische Technische Universität Cottbus-Senftenberg (2026).
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+
+
