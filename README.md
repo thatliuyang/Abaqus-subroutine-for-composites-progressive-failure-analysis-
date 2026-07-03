@@ -68,18 +68,21 @@ https://github.com/ammarkh95/ABAQUS_PDALAC
 Settings, inputs & output
 
 **Abaqus -- property -- Edit Material -- Depvar
-++++++++++++++++++++++++++++++
+
 ![Logo](image/image.png)
 ++++++++++++++++++++++++++++++
 **Abaqus -- property -- Edit Material -- User Material
+
 ++++++++++++++++++++++++++++++
 ![Logo](image/image-1.png)
 ++++++++++++++++++++++++++++++
 **Abaqus -- job -- edit Job
+
 ++++++++++++++++++++++++++++++
 ![Logo](image/image-3.png)
 ++++++++++++++++++++++++++++++
 **Abaqus -- Visualization -- SDV
+
 ++++++++++++++++++++++++++++++
 ![Logo](image/image-2.png)
 ++++++++++++++++++++++++++++++
